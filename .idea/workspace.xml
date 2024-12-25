@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matura_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2015_4/Maj2015_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2015_4/liczby.txt" afterDir="false" />
+    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Maj 2015 zad4.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Czerwiec2015_6/Czerwiec2015_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Czerwiec2015_6/cyfra_kodkreskowy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Czerwiec2015_6/kody.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +36,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Maj2015_4",
+    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Czerwiec2015_6",
     "onboarding.tips.debug.path": "C:/Users/TK/IdeaProjects/Matura_java/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2015_6" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2015_4" />
     </key>
   </component>
@@ -59,6 +57,30 @@
       <option name="presentableId" value="Default" />
       <updated>1735156948690</updated>
     </task>
+    <task id="LOCAL-00001" summary="Maj 2015 zad4.">
+      <option name="closed" value="true" />
+      <created>1735161731486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735161731486</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Maj 2015 zad4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Maj 2015 zad4." />
   </component>
 </project>
