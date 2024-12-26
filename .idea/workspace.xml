@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Maj 2015 zad4.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2015_6/Czerwiec2015_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2015_6/cyfra_kodkreskowy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2015_6/kody.txt" afterDir="false" />
+    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Maj 2017 zad6.">
+      <change afterPath="$PROJECT_DIR$/src/Czerwiec2016_6/Czerwiec2016_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Czerwiec2016_6/liczby.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +36,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Czerwiec2015_6",
+    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Czerwiec2016_6",
     "onboarding.tips.debug.path": "C:/Users/TK/IdeaProjects/Matura_java/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2016_6" />
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2016_6" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2015_6" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2015_4" />
     </key>
@@ -65,7 +65,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735161731486</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Czerwiec 2015 zad6.">
+      <option name="closed" value="true" />
+      <created>1735165691794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735165691794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Maj 2017 zad6.">
+      <option name="closed" value="true" />
+      <created>1735176174222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735176174222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +97,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Maj 2015 zad4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Maj 2015 zad4." />
+    <MESSAGE value="Czerwiec 2015 zad6." />
+    <MESSAGE value="Maj 2017 zad6." />
+    <option name="LAST_COMMIT_MESSAGE" value="Maj 2017 zad6." />
   </component>
 </project>
