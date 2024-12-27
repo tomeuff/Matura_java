@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Lipiec 2020 zad4.">
-      <change afterPath="$PROJECT_DIR$/src/Marzec2021_4/Galeria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2021_4/Marzec2021_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2021_4/galerie.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2021_4/galerie_przyklad.txt" afterDir="false" />
+    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Marzec 2021 zad4.">
+      <change afterPath="$PROJECT_DIR$/src/Maj2021_4/Maj2021_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2021_4/Wiersz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2021_4/instrukcje.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2021_4/przyklad.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,17 +38,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Marzec2021_4",
+    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Maj2021_4",
     "onboarding.tips.debug.path": "C:/Users/TK/IdeaProjects/Matura_java/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2021_4" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Marzec2021_4" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Lipiec2020_4" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2020_4" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2019_4" />
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2019_4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -132,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735251296045</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Marzec 2021 zad4.">
+      <option name="closed" value="true" />
+      <created>1735254815674</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735254815674</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +164,7 @@
     <MESSAGE value="Czerwiec 2019 zad4." />
     <MESSAGE value="Czerwiec 2020 zad4." />
     <MESSAGE value="Lipiec 2020 zad4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lipiec 2020 zad4." />
+    <MESSAGE value="Marzec 2021 zad4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Marzec 2021 zad4." />
   </component>
 </project>
