@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Maj 2012 zad5.">
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/Czerwiec2023_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/Czerwiec2023_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/Czerwiec2024_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/Wywolanie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/anagram.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/slowa1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/slowa2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/slowa3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/slowa4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/sufiks_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/sufiks_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Czerwiec2023/sufiks_4.txt" afterDir="false" />
+    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Czerwiec 2024">
+      <change afterPath="$PROJECT_DIR$/src/Maj2024/Maj2024_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2024/Maj2024_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2024/Maj2024_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2024/liczby.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2024/liczby_przyklad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2024/skrot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2024/skrot2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2024/skrot2_przyklad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2024/skrot_przyklad.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,17 +43,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Czerwiec2023",
+    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Maj2024",
     "onboarding.tips.debug.path": "C:/Users/TK/IdeaProjects/Matura_java/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2023" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2024" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2024" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Grudzien2024" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2022_4" />
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2022_4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -212,23 +209,7 @@
       <option name="project" value="LOCAL" />
       <updated>1735331554933</updated>
     </task>
-    <task id="LOCAL-00019" summary="Czerwiec 2024">
-      <option name="closed" value="true" />
-      <created>1735338120094</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1735338120094</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Maj 2012 zad5.">
-      <option name="closed" value="true" />
-      <created>1735348403003</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1735348403003</updated>
-    </task>
-    <option name="localTasksCounter" value="21" />
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,7 +240,6 @@
     <MESSAGE value="Czerwiec 2022 zad4." />
     <MESSAGE value="Grudzień 2024" />
     <MESSAGE value="Czerwiec 2024" />
-    <MESSAGE value="Maj 2012 zad5." />
-    <option name="LAST_COMMIT_MESSAGE" value="Maj 2012 zad5." />
+    <option name="LAST_COMMIT_MESSAGE" value="Czerwiec 2024" />
   </component>
 </project>
