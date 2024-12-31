@@ -1,0 +1,27 @@
+5.1.
+nazwa: Przekroczenie dopuszczalnej predkosci o 21 - 30 km/h
+liczba popełnień: 77
+
+5.2.
+81011807736 26
+80062465997 27
+81011159031 32
+
+5.3.
+Naruszenie zakazu postoju w miejscach utrudniajacych wjazd lub wyjazd
+Naruszenie zakazu postoju w miejscach utrudniajacych dostep do innego prawidowo zaparkowanego pojadu
+Naruszenie zakazu postoju przed lub za przejazdem kolejowym
+Naruszenie zakazu postoju w strefie zamieszkania w miejscach innych niz wyznaczone
+Naruszenie zakazu wyprzedzania pojazdu silnikowego przy dojezdzaniu do wierzcholka wzniesienia
+Naruszenie zakazu wyprzedzania na zakretach oznaczonych znakami ostrzegawczymi
+Naruszenie zakazu wyprzedzania na skrzyzowaniach
+W czasie jazdy naruszenie zakazu palenia tytoniu lub spozywania pokarmow.
+Naruszenie zakazu zawracania na autostradzie lub drodze ekspresowej
+
+5.4.
+02 12750 63
+
+5.5.
+liczba kierowców: 190
+miasto: Warszawa
+
