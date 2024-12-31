@@ -1,0 +1,17 @@
+5.1
+A 33929579
+B 41736619
+C 57649017
+D 36530387
+
+5.2.
+liczba województw: 19
+A: 3
+B: 4
+C: 8
+D: 4
+
+5.3.
+liczba wszystkich mieszkańców: 125930205
+województwo z największą liczbą mieszkańców: w12C
+liczba województw z przeludnieniem: 18
