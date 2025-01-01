@@ -1,0 +1,15 @@
+4.1.
+do brzegu:
+(256, 8)
+(200, 400)
+do wnętrza: 7852
+
+4.2.
+pierwsze 1000 punktów: 3,2280
+pierwsze 5000 punktów: 3,1656
+wszystkie punkty: 3,1416
+
+4.3.
+epsilon 1000: 0,0864
+epsilon 1700: 0,0184
+
