@@ -1,12 +1,9 @@
-package Czerwiec2016_6;
+package Czerwiec2016;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Czerwiec2016_6 {
     public static void main(String[] args) throws IOException {
