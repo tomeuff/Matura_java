@@ -1,0 +1,49 @@
+5.1.
+RPA 1
+Szkocja 1
+Rumunia 1
+Ukraina 1
+Austria 1
+Belgia 1
+Wegry 1
+Grecja 1
+Indie 2
+Hiszpania 2
+Niemcy 2
+Meksyk 2
+Szwecja 2
+Irlandia 2
+Japonia 3
+Wlochy 3
+Portoryko 3
+Rosja 3
+Francja 4
+Australia 6
+Kanada 8
+Wielkia Brytania 38
+Stany Zjednoczone 204
+
+5.2.
+Tatum ONeal 10
+
+5.3.
+Katharine Hepburn
+1968 Lew w zimie
+1981 Nad zlotym stawem
+1932 Poranna chwala
+1967 Zgadnij, kto przyjdzie na obiad
+
+5.4.
+Jack Nicholson 14
+Kevin Spacey 4
+Cate Blanchett 9
+Maggie Smith 9
+Jack Lemmon 18
+Denzel Washington 12
+Gene Hackman 21
+Ingrid Bergman 30
+Helen Hayes 39
+Robert De Niro 6
+Jessica Lange 12
+Meryl Streep 32
+

@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Czerwiec 2015 zad5.">
-      <change afterPath="$PROJECT_DIR$/src/Maj2017/Druzyna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2017/Maj2017_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2017/Sedzia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2017/Wynik.java" afterDir="false" />
+    <list default="true" id="8f2f4dc4-ec34-4c6a-bb54-17447c130b6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Aktor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/AktorNagrody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Maj2019_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Maj2019_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Nagroda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/aktorzy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/dzialki.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/filmy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/nagrody.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/przyklad.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,268 +30,32 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="2qisteFrWFrYOHIpMcYXSNxoFxt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/TK/IdeaProjects/Matura_java/src/Maj2016&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/TK/IdeaProjects/Matura_java/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Maj2019_stara"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2016" />
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2015" />
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2015_6" />
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2015_5" />
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2023" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2015" />
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2015_5" />
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2019_stara" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="" />
-      <created>1735156948690</created>
+      <changelist id="8f2f4dc4-ec34-4c6a-bb54-17447c130b6e" name="Changes" comment="" />
+      <created>1736115399819</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1735156948690</updated>
+      <updated>1736115399819</updated>
     </task>
-    <task id="LOCAL-00001" summary="Maj 2015 zad4.">
-      <option name="closed" value="true" />
-      <created>1735161731486</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1735161731486</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Maj 2017 zad6.">
-      <option name="closed" value="true" />
-      <created>1735215463023</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1735215463023</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Czerwiec 2017 zad4.">
-      <option name="closed" value="true" />
-      <created>1735218371046</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1735218371046</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Maj 2018 zad4.">
-      <option name="closed" value="true" />
-      <created>1735220839594</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1735220839594</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Czerwiec 2018 zad4.">
-      <option name="closed" value="true" />
-      <created>1735224265911</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1735224265911</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Maj 2019 zad4.">
-      <option name="closed" value="true" />
-      <created>1735227796745</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1735227796745</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Czerwiec 2019 zad4.">
-      <option name="closed" value="true" />
-      <created>1735230827970</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1735230827970</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Czerwiec 2020 zad4.">
-      <option name="closed" value="true" />
-      <created>1735233413795</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1735233413795</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Lipiec 2020 zad4.">
-      <option name="closed" value="true" />
-      <created>1735251296045</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1735251296045</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Marzec 2021 zad4.">
-      <option name="closed" value="true" />
-      <created>1735254815674</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1735254815674</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Maj 2021 zad4.">
-      <option name="closed" value="true" />
-      <created>1735257727681</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1735257727681</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Czerwiec 2021 zad4.">
-      <option name="closed" value="true" />
-      <created>1735260560874</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1735260560874</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Maj 2022 zad4.">
-      <option name="closed" value="true" />
-      <created>1735262318583</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1735262318583</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Czerwiec 2022 zad4.">
-      <option name="closed" value="true" />
-      <created>1735264000698</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1735264000698</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Grudzień 2024">
-      <option name="closed" value="true" />
-      <created>1735267550695</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1735267550695</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Grudzień 2024">
-      <option name="closed" value="true" />
-      <created>1735269088809</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1735269088809</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Czerwiec 2024">
-      <option name="closed" value="true" />
-      <created>1735329028142</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1735329028142</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Czerwiec 2024">
-      <option name="closed" value="true" />
-      <created>1735331554933</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1735331554933</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Maj 2023">
-      <option name="closed" value="true" />
-      <created>1735437152541</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1735437152541</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Maj 2015 zad5.">
-      <option name="closed" value="true" />
-      <created>1735610360857</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1735610360857</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Maj 2015 zad6.">
-      <option name="closed" value="true" />
-      <created>1735652372186</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1735652372186</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Czerwiec 2015 zad4.">
-      <option name="closed" value="true" />
-      <created>1735674540839</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1735674540839</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Czerwiec 2015 zad5.">
-      <option name="closed" value="true" />
-      <created>1735684996746</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1735684996746</updated>
-    </task>
-    <option name="localTasksCounter" value="24" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Maj 2015 zad4." />
-    <MESSAGE value="Maj 2017 zad6." />
-    <MESSAGE value="Czerwiec 2017 zad4." />
-    <MESSAGE value="Maj 2018 zad4." />
-    <MESSAGE value="Czerwiec 2018 zad4." />
-    <MESSAGE value="Maj 2019 zad4." />
-    <MESSAGE value="Czerwiec 2019 zad4." />
-    <MESSAGE value="Czerwiec 2020 zad4." />
-    <MESSAGE value="Lipiec 2020 zad4." />
-    <MESSAGE value="Marzec 2021 zad4." />
-    <MESSAGE value="Maj 2021 zad4." />
-    <MESSAGE value="Czerwiec 2021 zad4." />
-    <MESSAGE value="Maj 2022 zad4." />
-    <MESSAGE value="Czerwiec 2022 zad4." />
-    <MESSAGE value="Grudzień 2024" />
-    <MESSAGE value="Czerwiec 2024" />
-    <MESSAGE value="Maj 2023" />
-    <MESSAGE value="Maj 2015 zad5." />
-    <MESSAGE value="Maj 2015 zad6." />
-    <MESSAGE value="Czerwiec 2015 zad4." />
-    <MESSAGE value="Czerwiec 2015 zad5." />
-    <option name="LAST_COMMIT_MESSAGE" value="Czerwiec 2015 zad5." />
   </component>
 </project>
