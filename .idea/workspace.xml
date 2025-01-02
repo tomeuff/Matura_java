@@ -4,12 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Czerwiec 2015 zad5.">
-      <change afterPath="$PROJECT_DIR$/src/Maj2017/Druzyna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2017/Maj2017_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2017/Sedzia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2017/Wynik.java" afterDir="false" />
+    <list default="true" id="9af05452-49af-4a0f-9a3c-4a37e1c71c4d" name="Changes" comment="Czerwiec 2016 zad5.">
+<<<<<<<<< Temporary merge branch 1
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=========
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/Magazyn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/Maj2017_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/Transakcja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/cennik.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/cukier.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/druzyny.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/sedziowie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/wykres4_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/wykres4_3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maj2017/wyniki.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Maj2017_6/Maj2017_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maj2017/Maj2017_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Maj2017_6/dane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maj2017/dane.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Maj2017_6/przyklad.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maj2017/przyklad.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Maj2017_6/wyniki6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maj2017/wyniki6.txt" afterDir="false" />
+>>>>>>>>> Temporary merge branch 2
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +38,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2qisteFrWFrYOHIpMcYXSNxoFxt" />
@@ -33,6 +46,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<<<< Temporary merge branch 1
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -41,17 +55,28 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/TK/IdeaProjects/Matura_java/src/Maj2016&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/TK/IdeaProjects/Matura_java/src/Main.java&quot;
+=========
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Maj2017",
+    "onboarding.tips.debug.path": "C:/Users/TK/IdeaProjects/Matura_java/src/Main.java"
+>>>>>>>>> Temporary merge branch 2
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2017" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2016" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2015" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2015_6" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2015_5" />
-      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2023" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2017" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Czerwiec2015" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2015_5" />
     </key>
@@ -249,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735684996746</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Czerwiec 2016 zad5.">
+      <option name="closed" value="true" />
+      <created>1735841245855</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1735841245855</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +318,7 @@
     <MESSAGE value="Maj 2015 zad6." />
     <MESSAGE value="Czerwiec 2015 zad4." />
     <MESSAGE value="Czerwiec 2015 zad5." />
-    <option name="LAST_COMMIT_MESSAGE" value="Czerwiec 2015 zad5." />
+    <MESSAGE value="Czerwiec 2016 zad5." />
+    <option name="LAST_COMMIT_MESSAGE" value="Czerwiec 2016 zad5." />
   </component>
 </project>
