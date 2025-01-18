@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f2f4dc4-ec34-4c6a-bb54-17447c130b6e" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Marzec2022_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Marzec2022_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Marzec2022_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Marzec2022_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Para.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Pomiar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/brenna.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/kody.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/liczby.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/liczby_przyklad.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/przybycia.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/statki.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/szachy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Marzec2022/szachy_przyklad.txt" afterDir="false" />
+    <list default="true" id="8f2f4dc4-ec34-4c6a-bb54-17447c130b6e" name="Changes" comment="Zadania od 1. do 4.">
+      <change afterPath="$PROJECT_DIR$/src/Maj_2016_stara/Maj_2016_stara_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +28,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/TK/IdeaProjects/Matura_java/src/Marzec2022&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Maj_2016_stara"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj_2016_stara" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Marzec2022" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2019_stara" />
     </key>
@@ -72,12 +60,29 @@
       <option name="project" value="LOCAL" />
       <updated>1736125964360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Zadania od 1. do 4.">
+      <option name="closed" value="true" />
+      <created>1737234879732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737234879732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Zadania od 1. do 4.">
+      <option name="closed" value="true" />
+      <created>1737234903388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737234903388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Maj 2019 zad4. i zad5." />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Zadania od 1. do 4." />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadania od 1. do 4." />
   </component>
 </project>
