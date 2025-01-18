@@ -4,18 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f2f4dc4-ec34-4c6a-bb54-17447c130b6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Aktor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/AktorNagrody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Maj2019_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Maj2019_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/Nagroda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/aktorzy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/dzialki.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/filmy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/nagrody.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maj2019_stara/przyklad.txt" afterDir="false" />
+    <list default="true" id="8f2f4dc4-ec34-4c6a-bb54-17447c130b6e" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Marzec2022_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Marzec2022_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Marzec2022_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Marzec2022_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Para.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/Pomiar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/brenna.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/kody.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/liczby.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/liczby_przyklad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/przybycia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/statki.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/szachy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Marzec2022/szachy_przyklad.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,20 +33,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2rR7sbStIkJmDxReNUuIIlQMtZS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/TK/IdeaProjects/Matura_java/src/Maj2019_stara"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TK/IdeaProjects/Matura_java/src/Marzec2022&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Marzec2022" />
       <recent name="C:\Users\TK\IdeaProjects\Matura_java\src\Maj2019_stara" />
     </key>
   </component>
@@ -56,6 +64,20 @@
       <option name="presentableId" value="Default" />
       <updated>1736115399819</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1736125964360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736125964360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Maj 2019 zad4. i zad5." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
